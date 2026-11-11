@@ -1,4 +1,4 @@
-import{La as Se,Oa as he,Pa as Ie,Qa as Ee,Ra as Me,Sa as Oe,Ta as je,Va as v,Wa as A,Xa as u,Ya as n,Za as g,_a as I,a as l,ab as c,b as p,bb as Re,cb as b,d as o,db as E,e as ue,f as j,l as Ae,o as R}from"./chunk-6NP7NV4H.js";var ve=`
+import{$a as v,Ra as Se,Ua as he,Va as Ie,Wa as Ee,Xa as Me,Ya as Oe,Za as je,a as l,ab as A,b as p,bb as u,cb as n,d as o,db as g,e as ue,eb as I,f as j,gb as c,hb as Re,ib as b,jb as E,l as Ae,o as R}from"./chunk-5OIC4Q5D.js";var ve=`
 .game-card {
   aspect-ratio: 1 / 1;
   border-radius: 10px;
@@ -592,7 +592,7 @@ import{La as Se,Oa as he,Pa as Ie,Qa as Ee,Ra as Me,Sa as Oe,Ta as je,Va as v,Wa
 }
 `,ye=`
 .modal {
-    background: linear-gradient(145deg, rgba(255,255,255, .80), rgba(255,255,255, .80)) !important;
+    background: linear-gradient(145deg, rgba(255,255,255,.10), rgba(255,255,255,.04)) !important;
 }
 .game-card {
   background: linear-gradient(145deg, rgba(255,255,255,.10), rgba(255,255,255,.04)) !important;
@@ -699,7 +699,7 @@ import{La as Se,Oa as he,Pa as Ie,Qa as Ee,Ra as Me,Sa as Oe,Ta as je,Va as v,Wa
 }
 `,Ne=`
 .modal {
-    background: linear-gradient(145deg, rgba(255,255,255, .80), rgba(255,255,255, .80)) !important;
+    background: linear-gradient(145deg, rgba(255,255,255,.10), rgba(255,255,255,.04)) !important;
 }
 .game-card {
   background: linear-gradient(145deg, rgba(255,255,255,.10), rgba(255,255,255,.04)) !important;

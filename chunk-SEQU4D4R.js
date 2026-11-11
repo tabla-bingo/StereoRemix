@@ -1,0 +1,1 @@
+import{K as r,l as e}from"./chunk-5OIC4Q5D.js";var c=(()=>{class t{constructor(){this.userEmail=r("\u2014")}get esDekz(){return this.userEmail().toLowerCase().includes("dekz")}static{this.\u0275fac=function(i){return new(i||t)}}static{this.\u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{c as a};
